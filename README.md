@@ -6,4 +6,5 @@
 2. Display: **flex**;
 3. **media**запросы;
 4. Псевдоклассы **hover** и **before**;
-5. Для всех ссылок на сайте использован **transition**.
+5. Для всех ссылок на сайте использован **transition**.  
+Ссылка проекта на GitHub: https://dimidrrol.github.io/russian-travel/.
