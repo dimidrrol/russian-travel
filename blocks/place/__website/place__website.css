@@ -1,0 +1,24 @@
+.place__website {
+    min-width: 456px;
+    margin: 106px 28px 48px 0;
+  }
+  
+  @media screen and (max-width: 1024px) {
+    .place__website {
+      margin-right: 0;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .place__website {
+      margin-top: 46px;
+      min-width: 352px;
+    }
+  }
+  
+  @media screen and (max-width: 320px) {
+    .place__website {
+      min-width: 288px;
+      margin: 32px 16px;
+    }
+  }
