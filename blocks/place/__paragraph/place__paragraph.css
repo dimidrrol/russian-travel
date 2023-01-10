@@ -20,7 +20,13 @@
     }
   }
 
-  @media screen and (min-width: 371px) and (max-width: 767px) {
+  @media screen and (min-width: 714px) and (max-width: 767px) {
+    .place__paragraph {
+      max-width: 326px;
+    }
+  }
+
+  @media screen and (min-width: 371px) and (max-width: 713px) {
     .place__paragraph {
       max-width: 340px;
     }
