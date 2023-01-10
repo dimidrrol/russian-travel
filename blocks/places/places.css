@@ -21,14 +21,14 @@
     }
   }
 
-  @media screen and (min-width: 321px) and (max-width: 767px) {
+  @media screen and (min-width: 351px) and (max-width: 767px) {
     .places {
       margin: 64px 24px;
       gap: 60px;
     }
   }
   
-  @media screen and (max-width: 320px) {
+  @media screen and (max-width: 320px) and (max-width: 350) {
     .places {
       margin: 64px 0;
       gap: 50px;

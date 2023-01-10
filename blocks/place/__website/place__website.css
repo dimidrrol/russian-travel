@@ -27,7 +27,7 @@
 
 @media screen and (min-width: 371px) and (max-width: 767px) {
   .place__website {
-    min-width: 326px;
+    min-width: 320px;
   }
 }
 
